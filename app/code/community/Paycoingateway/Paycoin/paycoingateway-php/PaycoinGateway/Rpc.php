@@ -42,7 +42,7 @@ class PaycoinGateway_Rpc
         }
 
         // Headers
-        $headers = array('User-Agent: PaycoinGatewayPHP/v1');
+        $headers = array('User-Agent: PaycoinGatewayPHP/v2');
 
         $auth = $this->_authentication->getData();
 
