@@ -1,4 +1,4 @@
-paycoingateway-magento
+paycoingateway-magento Version: 2.6.5
 ================
 
 Accept Paycoin on your Magento-powered website with PaycoinGateway. 
